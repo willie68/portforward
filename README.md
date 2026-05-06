@@ -86,6 +86,8 @@ python -m compileall src
 
 GitHub Actions runs the same compilation check on push and pull requests to `main`.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup details, expectations for pull requests, and how code review is assigned.
+
 ## License
 
 This project is licensed under the terms of the MIT License. See `LICENSE`.
